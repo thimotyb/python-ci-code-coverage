@@ -1,0 +1,8 @@
+python_ci_code_coverage/__pycache__/__init__.cpython-310.pyc
+python_ci_code_coverage/__pycache__/hello.cpython-310.pyc
+tests/__pycache__/__init__.cpython-310.pyc
+tests/__pycache__/test_hello.cpython-310-pytest-7.4.3.pyc
+coverage.xml
+poetry.lock
+.coverage
+.vscode/settings.json
